@@ -1,16 +1,16 @@
 require("./database/module")
 
-//GLOBAL PAYMENT
+//TOGE INUMAKI 
 global.storename = "Re-Jeong "
 global.dana = "-"
 global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "27623649420" //masukin no lu
-global.namabot = "Re-Jeong V4"
-global.nomorbot = "27623649420" //masukin no lu
-global.namaCreator = "Re-Jeong "
+global.owner = "25767334893" //masukin no lu
+global.namabot = "TOGE INUMAKI"
+global.nomorbot = "25767334893" //masukin no lu
+global.namaCreator = "TOGE INUMAKI"
 global.linkyt = "-"
 global.autoJoin = false
 global.antilink = false
@@ -30,11 +30,11 @@ global.location = '1'
 
 //GLOBAL THUMB
 
-global.codeInvite = "https://chat.whatsapp.com/DuQU3pbRi4s6kwd5SW5der"
-global.imageurl = 'https://telegra.ph/file/019207dd7bf306d343b7e.jpg'
-global.isLink = 'https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h'
-global.packname = "Re-Jeong"
-global.author = "Re-Jeong"
+global.codeInvite = "https://chat.whatsapp.com/F12c50enMHQGu7Mq1zLOZg"
+global.imageurl = 'https://i.imgur.com/B6kDSUN.jpeg'
+global.isLink = 'https://whatsapp.com/channel/0029VanJ8wqCsU9ViGHB6K1E'
+global.packname = "TOGE INUMAKI"
+global.author = "TOGE INUMAKI"
 global.jumlah = "5"
 
 
